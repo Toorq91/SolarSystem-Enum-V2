@@ -13,7 +13,6 @@
         solarSystem.AddPlanet(new Planet("Neptune", 24622));
         solarSystem.AddPlanet(new Planet("Pluto", 1188));
         solarSystem.AddPlanet(new Planet("Sun", 696340));
-        solarSystem.AddPlanet(new Planet("UrMom", 696969));
 
         solarSystem.DisplayPlanets();
 
